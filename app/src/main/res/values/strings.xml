@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejercicio1Examen</string>
+
+    <string name="number">El number</string>
+    <string name="boton">El boton</string>
+    <string-array name="sp_lista">
+        <item>Selecciona</item>
+        <item>Selecciona</item>
+        <item>Selecciona</item>
+        <item>Selecciona</item>
+    </string-array>
+
+    <string name="texto1">El texto</string>
+    <string name="texto2">El texto2</string>
+    <string name="texto3">El texto3</string>
+    <string name="boton2">El boton2</string>
+</resources>
